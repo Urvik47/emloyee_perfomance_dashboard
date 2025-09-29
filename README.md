@@ -1,5 +1,7 @@
 # Employee Performance Dashboard (SQL Project)
 
+#Built by Urvik to showcase SQL analysis 
+
 ## 📌 Overview
 Analyses HR-style employee data using **advanced SQL**: Window Functions, CTEs, Stored Procedures, and (optionally) Temp Tables.
 
@@ -32,3 +34,4 @@ Screenshots of outputs go in the `screenshots/` folder.
 
 ## 🙌 Credits
 Parks & Rec data for learning purposes.
+
